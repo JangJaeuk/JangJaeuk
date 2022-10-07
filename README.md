@@ -14,5 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Me
+<div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangJaeuk)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="junj.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+</div>
+
+
+## Github stats
+<div align="center">
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangJaeuk)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
