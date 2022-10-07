@@ -1,18 +1,16 @@
 <div align="center">
 
-  ### :godmode: Github Stats
+  ## 📊 Github Stats
   
   ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangJaeuk&show_icons=true&theme=tokyonight) 
   
-  ### 📊Most Used Language
-  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangJaeuk&layout=Demo&theme=tokyonight)
   
-  ### 🥇Baekjoon Solved Rank
+  ## 🥇Baekjoon Solved Rank
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=enrtja5980)](https://solved.ac/enrtja5980)
   
-  ### :books:Stack
+  ## :books:Stack
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -29,7 +27,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   
-  ### :hand:ME
+  ## :hand:ME
 
   <a href="mailto:junj.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://c4u-rdav.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
