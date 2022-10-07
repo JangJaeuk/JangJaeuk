@@ -1,12 +1,16 @@
 <div align="center">
 
-  ### :bar_chart:Github stats
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangJaeuk)](https://github.com/anuraghazra/github-readme-stats)
+  ### :godmode: Github Stats
   
-  ### :diamonds:Baekjoon
+  ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangJaeuk&show_icons=true&theme=tokyonight) 
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=enrtja5980)](https://solved.ac/enrtja5980/)
+  ### 📊Most Used Language
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangJaeuk&layout=Demo&theme=tokyonight)
+  
+  ### 🥇Baekjoon Solved Rank
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=enrtja5980)](https://solved.ac/enrtja5980)
   
   ### :books:Stack
   
