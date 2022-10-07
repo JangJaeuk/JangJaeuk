@@ -26,9 +26,9 @@
 
 ## 🥇Baekjoon Solved Rank
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=enrtja5980)](https://solved.ac/enrtja5980)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=enrtja5980)](https://solved.ac/enrtja5980)
   
 ## 📊 Github Stats
 
-  ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangJaeuk&show_icons=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangJaeuk&layout=compact&theme=tokyonight)
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangJaeuk&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangJaeuk&layout=compact&theme=tokyonight)
